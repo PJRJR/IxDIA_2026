@@ -2,7 +2,7 @@
 
 This is written in *Markdown* 
 
-This is a link [The Word](www.google.com)
+This is a link [The Word](https://www.google.com)
 
 ## Images
 
