@@ -10,6 +10,6 @@ Hey, check out this **cool**
 
 ![image of dog](https://deadline.com/wp-content/uploads/2016/06/clifford-the-big-red-dog1.jpg)
 
-### Journal
+### Journal Example
 
-Hello
+Here is my journal [test](journal/8.20.26.md)
