@@ -4,7 +4,7 @@ let answer = "8";
 function setup() {
   let canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent('test');
-  background(40, 150, 50);
+  background(400, 150, 50);
 }
 
 function draw() {
