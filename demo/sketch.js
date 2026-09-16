@@ -2,7 +2,7 @@ let answerResults = ["yes", "no", "maybe", "idk"];
 let answer = "8";
 
 function setup() {
-  let canvas = createCanvas(500, 750);
+  let canvas = createCanvas(windowWidth, windowHeight);
   canvas.parent('test');
   background(40, 150, 50);
 }
