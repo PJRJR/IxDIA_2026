@@ -1,6 +1,6 @@
 # Reading Discussion 1: Chapter 1 of DOET
 
-<p> Although I’ve read this book before during my undergrad (*+ listened to the audiobook on too many flights*), it’s really helpful for me to reread and reflect on it again to hopefully catch any details that get lost in the [memory] sauce. Two ideas stood out most: *perceivable signifiers* and natural mapping.</p>
+<p>Although I’ve read this book before during my undergrad (<em>+ listened to the audiobook on too many flights</em>), it’s really helpful for me to reread and reflect on it again to hopefully catch any details that get lost in the [memory] sauce. Two ideas stood out most: <strong>perceivable signifiers</strong> and <strong>natural mapping.</strong></p>
 
 ## Signifiers That Fail to Signify
 
